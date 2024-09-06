@@ -1,0 +1,19 @@
+.note {
+  height: 200px;
+  transition: box-shadow 0.2s ease-in-out;
+  cursor: pointer;
+}
+
+.note:hover {
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.noteGrid {
+  width: 100%;
+}
+
+.notePage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

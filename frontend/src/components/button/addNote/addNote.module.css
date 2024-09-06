@@ -1,0 +1,12 @@
+.button {
+  position: fixed;
+  padding: 1rem 2rem;
+
+  border-radius: 1rem;
+
+  bottom: 7%;
+  left: 50%;
+  translate: -50%;
+
+  background-color: lightsteelblue;
+}
